@@ -1,2 +1,2 @@
-# spring-security
-Projeto com configuração do Spring Security
+# Spring Security
+- Projeto com configuração do Spring Security
